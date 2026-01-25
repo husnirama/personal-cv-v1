@@ -60,7 +60,7 @@ function Skill({
 
 function Education() {
   return (
-    <section id="hero">
+    <section id="skill" className="scroll-mt-20">
       {/* h-[calc(100vh-80px)] */}
       <div className="bg-[url('/chat-gpt.png')] bg-cover h-[calc(100vh-80px)]">
         <div className="h-full mx-[285px] px-7.5 pb-25 pt-10">
