@@ -36,7 +36,7 @@ function Hero() {
     <section id="hero" className="scroll-mt-24">
       <div
         className="
-        bg-[url('/background-selfie.png')] sm:bg-[cover left top] -z-50 h-screen flex flex-col justify-center items-center
+        bg-[url('/background-selfie.png')] sm:bg-[center top] -z-50 h-screen flex flex-col justify-center items-center
           px-4 sm:px-6 text-center
         "
       >
