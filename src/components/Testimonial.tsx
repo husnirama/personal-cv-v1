@@ -58,7 +58,7 @@ function Testimonial() {
 
   return (
     <section id="testimonial">
-      <div className="h-[calc(50vh-55px)] bg-[url(rodeo-project-management-software-lPP1ns8krX8-unsplash.jpg)]">
+      <div className="h-[calc(50vh-55px)] bg-[url('/rodeo-project-management-software-lPP1ns8krX8-unsplash.jpg')]">
         <div className="h-50% mx-[285px] px-7.5 pb-25 pt-6">
           <div className="h-full flex justify-center">
             <div id="content" className=" w-full">

@@ -4,7 +4,7 @@ function Hero() {
   return (
     <section id="hero">
       {/* h-[calc(100vh-80px)] */}
-      <div className="bg-[url(background-selfie.png)] -z-50 h-screen flex flex-col justify-center items-center">
+      <div className="bg-[url('/background-selfie.png')] -z-50 h-screen flex flex-col justify-center items-center">
         <h2 className="text-[40px] text-center font-200 font-josefin text-white">
           I Love To Build Apps
         </h2>

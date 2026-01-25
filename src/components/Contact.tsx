@@ -116,7 +116,7 @@ export default function Contact() {
 
   return (
     <section id="contact">
-      <div className="h-[calc(100vh-55px)] bg-[url(chat-gpt.png)] bg-cover">
+      <div className="h-[calc(100vh-55px)] bg-[url('/chat-gpt.png')] bg-cover">
         <div className="h-full mx-[285px] px-7.5 pb-25">
           <div className="h-full flex justify-center items-center">
             <div id="content" className=" w-full">

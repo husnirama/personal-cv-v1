@@ -62,7 +62,7 @@ function Education() {
   return (
     <section id="hero">
       {/* h-[calc(100vh-80px)] */}
-      <div className="bg-[url(chat-gpt.png)] bg-cover h-[calc(100vh-80px)]">
+      <div className="bg-[url('/chat-gpt.png')] bg-cover h-[calc(100vh-80px)]">
         <div className="h-full mx-[285px] px-7.5 pb-25 pt-10">
           <h2 className="text-4xl font-bold text-white font-josefin pb-8 text-center">
             My Skills
