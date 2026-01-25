@@ -20,7 +20,7 @@ function Header() {
       <nav className="h-full flex justify-center mx-[285px] px-7.5 py-2">
         <ul className="w-full flex justify-between items-center">
           <li className="text-[30px] font-700 font-josefin text-white">
-            Husni Ramanda
+            <a href="#">Husni Ramanda</a>
           </li>
           <li>
             <ul className="flex justify-center gap-10 text-white text-[20px] font-open">
