@@ -45,7 +45,7 @@ const experiences: IExperience[] = [
       "- Developed Python-based unit price calculator for real-time margin estimation, improving pricing accuracy by ~20%",
       "- Implemented structured cost monitoring systems for multi-billion IDR projects",
       "- Applied quantitative models to evaluate project profitability and financial risk exposure",
-      "- Coordinated cross-functional execution across X+ projects while maintaining ISO-compliant standards",
+      "- Coordinated cross-functional execution across 5+ projects while maintaining ISO-compliant standards",
     ],
   },
   {

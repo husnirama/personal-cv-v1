@@ -60,7 +60,7 @@ function About() {
               </h4>
 
               <div className="space-y-4">
-                <p className="w-full font-josefin text-white/90 text-sm sm:text-[15px] leading-relaxed">
+                <p className="w-full font-josefin text-white/90 sm:text-[15px] leading-relaxed">
                   Senior Data Scientist with 7+ years of experience designing
                   and building risk modeling and fraud detection solutions
                   across fintech, insurance, and e-commerce industries.
@@ -70,14 +70,18 @@ function About() {
                   measurable financial impact. Currently focused on expanding
                   production-oriented ML capabilities through backend system
                   development and API-based model integration, bridging data
-                  science with scalable application systems. Core Expertise:
+                  science with scalable application systems.
+                  <br />
+                  <br />
+                  <strong>Core Expertise :</strong>
                   <ul>
-                    <li>Risk & Fraud Modeling</li>
-                    <li>Credit Scoring Systems</li>
-                    <li>Feature Engineering & Model Validation</li>
-                    <li>API-based ML Integration</li>
-                    <li>SQL & Data Pipelines</li>
+                    <li>-Risk & Fraud Modeling</li>
+                    <li>-Credit Scoring Systems</li>
+                    <li>-Feature Engineering & Model Validation</li>
+                    <li>-API-based ML Integration</li>
+                    <li>-SQL & Data Pipelines</li>
                   </ul>
+                  <br />
                   Tech Stack: Python, SQL, XGBoost, Scikit-learn, PostgreSQL,
                   FastAPI, REST-based ML Integration, Git, AWS (basic),
                   TypeScript (learning), JavaScript (learning)
